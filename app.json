@@ -1,0 +1,19 @@
+{
+  "name": "test-github2",
+  "type": "app",
+  "defaultPage": "home",
+  "config": {
+    "config": {
+      "parameters": [],
+      "script": ""
+    },
+    "modules": [],
+    "properties": {},
+    "themes": [],
+    "auth": {
+      "enabled": false,
+      "mockedUserAccounts": []
+    },
+    "environments": []
+  }
+}
